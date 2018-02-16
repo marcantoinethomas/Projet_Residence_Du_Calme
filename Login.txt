@@ -1,0 +1,6 @@
+masterkey,1234,admin,ADMIN,ADMIN
+marc,Jepasse,commis,THOMAS,MARC ANTOINE
+
+mathomas,Jepasse1234,admin,Thomas,Marc Antoine
+
+amseoudy,Jepasse1234,commis,Seoudy,amr
